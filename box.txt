@@ -1,0 +1,145 @@
+{
+  "Copper": [
+    {
+      "item": "50 mileage",
+      "total": "50",
+      "duration": "Permanent"
+    },
+    {
+      "item": "100 mileage",
+      "total": "100",
+      "duration": "Permanent"
+    },
+    {
+      "item": "300 mileage",
+      "total": "300",
+      "duration": "Permanent"
+    },
+    {
+      "item": "Round Retry (3 units)",
+      "total": "3",
+      "duration": "Permanent"
+    },
+    {
+      "item": "Large Emergency Medicine (5 units)",
+      "total": "5",
+      "duration": "Permanent"
+    },
+    {
+      "item": "Battle Revival (3 units)",
+      "total": "3",
+      "duration": "Permanent"
+    },
+    {
+      "item": "Ignore Defeat (10 days)",
+      "total": "10",
+      "duration": "Day"
+    },
+    {
+      "item": "Damage Display (30 days) ",
+      "total": "30",
+      "duration": "Day"
+    }
+  ],
+  "Best_Golden": [
+    {
+      "item": "Dual Sword Phantom Slayer (Permanent)",
+      "total": "1",
+      "duration": "Permanent"
+    },
+    {
+      "item": "Python Desperado (Permanent)",
+      "total": "1",
+      "duration": "Permanent"
+    },
+    {
+      "item": "Red Dragon Cannon (Permanent) ",
+      "total": "1",
+      "duration": "Permanent"
+    }
+  ],
+  "Golden": [
+    {
+      "item": "1000 mileage",
+      "total": "1000",
+      "duration": "Permanent"
+    },
+    {
+      "item": "Transcendent Fernando (10 days)",
+      "total": "10",
+      "duration": "Day"
+    },
+    {
+      "item": "Transcendent Blair (10 days)",
+      "total": "10",
+      "duration": "Day"
+    },
+    {
+      "item": "M3 Black Dragon (7 days)",
+      "total": "7",
+      "duration": "Day"
+    },
+    {
+      "item": "Dual Sword Phantom Slayer (7 days)",
+      "total": "7",
+      "duration": "Day"
+    },
+    {
+      "item": "Magnum Launcher (3 days)",
+      "total": "3",
+      "duration": "Day"
+    },
+    {
+      "item": "Claymore Mine MDS (Permanent)",
+      "total": "1",
+      "duration": "Permanent"
+    },
+    {
+      "item": "Arm Torch (Permanent) ",
+      "total": "1",
+      "duration": "Permanent"
+    }
+  ],
+  "Silver": [
+    {
+      "item": "100 mileage",
+      "total": "100",
+      "duration": "Permanent"
+    },
+    {
+      "item": "200 mileage",
+      "total": "200",
+      "duration": "Permanent"
+    },
+    {
+      "item": "500 mileage",
+      "total": "500",
+      "duration": "Permanent"
+    },
+    {
+      "item": "Season Pass Badge (5 units)",
+      "total": "5",
+      "duration": "Permanent"
+    },
+    {
+      "item": "Season Pass Badge (10 units)",
+      "total": "10",
+      "duration": "Permanent"
+    },
+    {
+      "item": "Lucky Gunman (7 days)",
+      "total": "7",
+      "duration": "Day"
+    },
+    {
+      "item": "M3 Black Dragon (3 days)",
+      "total": "3",
+      "duration": "Day"
+    },
+    {
+      "item": "Dual Sword Phantom Slayer (3 days) ",
+      "total": "3",
+      "duration": "Day"
+    }
+  ]
+}
